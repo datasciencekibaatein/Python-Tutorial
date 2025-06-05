@@ -1,0 +1,72 @@
+
+1. WAP to print "Hello, World!"
+2. WAP to take user input and print it.
+3. WAP to add two numbers.
+4. WAP to find the square and cube of a number.
+5. WAP to swap two numbers using a third variable.
+6. WAP to swap two numbers without using a third variable.
+7. WAP to find whether a number is even or odd.
+8. WAP to check whether a number is positive, negative, or zero.
+9. WAP to calculate the area of a circle.
+10. WAP to calculate the simple interest.
+11. WAP to convert Celsius to Fahrenheit.
+12. WAP to check if a year is a leap year.
+13. WAP to print the multiplication table of a number.
+14. WAP to print all even numbers between 1 to 100.
+15. WAP to find the factorial of a number using a loop.
+16. WAP to print Fibonacci series up to `n` terms.
+17. WAP to check whether a number is prime or not.
+18. WAP to find the largest among three numbers.
+19. WAP to count the number of digits in a number.
+20. WAP to reverse a given number.
+
+
+21. WAP to print all prime numbers between two intervals.
+22. WAP to check whether a number is an Armstrong number.
+23. WAP to find the GCD of two numbers.
+24. WAP to find the LCM of two numbers.
+25. WAP to create a simple calculator (add, subtract, multiply, divide).
+26. WAP to check whether a string is a palindrome.
+27. WAP to count vowels and consonants in a string.
+28. WAP to remove all punctuation from a string.
+29. WAP to sort a list of numbers in ascending order.
+30. WAP to find the second largest number in a list.
+31. WAP to merge two dictionaries.
+32. WAP to find the frequency of each character in a string.
+33. WAP to check if a string is an anagram of another string.
+34. WAP to generate a list of squares using list comprehension.
+35. WAP to remove duplicates from a list.
+36. WAP to flatten a nested list.
+37. WAP to print the pattern:
+    
+    *
+    **
+    ***
+    ****
+   
+38. WAP to count the number of words in a sentence.
+39. WAP to find common elements in two lists.
+40. WAP to print all unique elements from a list.
+
+
+41. WAP to implement a binary search algorithm.
+42. WAP to implement a linear search algorithm.
+43. WAP to create a class `Student` with attributes and methods.
+44. WAP to read and write a file in Python.
+45. WAP to implement a stack using list.
+46. WAP to implement a queue using list.
+47. WAP to sort a dictionary by its values.
+48. WAP to implement bubble sort.
+49. WAP to create a function that returns the nth Fibonacci number using recursion.
+50. WAP to check if a number is a strong number.
+51. WAP to convert a decimal number to binary.
+52. WAP to find the longest word in a given string.
+53. WAP to implement a simple login system using dictionary.
+54. WAP to calculate the power of a number using recursion.
+55. WAP to count total lines, words, and characters in a text file.
+56. WAP to find the most frequent word in a text.
+57. WAP to create a generator that yields even numbers.
+58. WAP to implement a basic calculator using class and methods.
+59. WAP to validate an email address using regex.
+60. WAP to simulate a basic bank account system with deposit and withdrawal functions.
+
